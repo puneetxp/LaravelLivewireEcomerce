@@ -1,0 +1,1 @@
+<img width="135" src='/storage/logok.png'/><?php /**PATH /home/puneetxp/Downloads/Telegram Desktop/SupremePure/resources/views/vendor/jetstream/components/authentication-card-logo.blade.php ENDPATH**/ ?>

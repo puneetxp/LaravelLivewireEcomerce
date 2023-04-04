@@ -1,0 +1,1 @@
+<img width="75" src='/storage/logok.png'/><?php /**PATH /home/u305151613/domains/supremepure.in/public_html/resources/views/vendor/jetstream/components/application-mark.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+<img width="75" src='/storage/logok.png'/><?php /**PATH /home/puneetxp/Downloads/Telegram Desktop/SupremePure/resources/views/vendor/jetstream/components/application-mark.blade.php ENDPATH**/ ?>

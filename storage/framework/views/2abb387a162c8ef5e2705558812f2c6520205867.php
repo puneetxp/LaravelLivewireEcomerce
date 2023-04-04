@@ -1,0 +1,1 @@
+<img width="135" src='/storage/logok.png'/><?php /**PATH /home/u305151613/domains/supremepure.in/public_html/resources/views/vendor/jetstream/components/authentication-card-logo.blade.php ENDPATH**/ ?>
